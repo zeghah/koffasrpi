@@ -1,6 +1,6 @@
 ---
 name: Dr. Mattheos A. G. Koffas
-image: <img src="mattheos_koffas.jpg">
+image: 
 role: Principal Investigator
 affiliation: B.S. National Technical University, Athens, Greece, 1994 <br> Ph.D. Massachusetts Institute of Technology, 2000
 
