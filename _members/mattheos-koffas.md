@@ -1,8 +1,9 @@
 ---
-name: Jane Smith
+name: Dr. Mattheos A. G. Koffas
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: B.S. National Technical University, Athens, Greece, 1994
+Ph.D. Massachusetts Institute of Technology, 2000
 aliases:
   - J. Smith
   - J Smith
